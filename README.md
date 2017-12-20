@@ -65,7 +65,7 @@ use Cielo\API30\Ecommerce\Payment;
 use Cielo\API30\Ecommerce\Request\CieloRequestException;
 // ...
 // Configure o ambiente
-$environment = $environment = Environment::sandbox();
+$environment = Environment::sandbox();
 
 // Configure seu merchant
 $merchant = new Merchant('MERCHANT ID', 'MERCHANT KEY');
@@ -125,7 +125,7 @@ use Cielo\API30\Ecommerce\Payment;
 use Cielo\API30\Ecommerce\Request\CieloRequestException;
 // ...
 // Configure o ambiente
-$environment = $environment = Environment::sandbox();
+$environment = Environment::sandbox();
 
 // Configure seu merchant
 $merchant = new Merchant('MERCHANT ID', 'MERCHANT KEY');
@@ -180,7 +180,7 @@ use Cielo\API30\Ecommerce\Payment;
 use Cielo\API30\Ecommerce\Request\CieloRequestException;
 // ...
 // Configure o ambiente
-$environment = $environment = Environment::sandbox();
+$environment = Environment::sandbox();
 
 // Configure seu merchant
 $merchant = new Merchant('MERCHANT ID', 'MERCHANT KEY');
@@ -233,7 +233,7 @@ use Cielo\API30\Ecommerce\Request\CieloRequestException;
 // ...
 // ...
 // Configure o ambiente
-$environment = $environment = Environment::sandbox();
+$environment = Environment::sandbox();
 
 // Configure seu merchant
 $merchant = new Merchant('MID', 'MKEY');
@@ -289,7 +289,7 @@ use Cielo\API30\Ecommerce\Request\CieloRequestException;
 
 // ...
 // Configure o ambiente
-$environment = $environment = Environment::sandbox();
+$environment = Environment::sandbox();
 
 // Configure seu merchant
 $merchant = new Merchant('MERCHANT ID', 'MERCHANT KEY');
@@ -350,7 +350,7 @@ use Cielo\API30\Ecommerce\Payment;
 use Cielo\API30\Ecommerce\Request\CieloRequestException;
 // ...
 // Configure o ambiente
-$environment = $environment = Environment::sandbox();
+$environment = Environment::sandbox();
 
 // Configure seu merchant
 $merchant = new Merchant('MERCHANT ID', 'MERCHANT KEY');
