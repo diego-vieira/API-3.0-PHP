@@ -105,6 +105,7 @@ $payment = $sale->payment(15700);
 $payment->setType(Payment::PAYMENTTYPE_CREDITCARD)
         ->creditCard("123", CreditCard::VISA)
         ->setExpirationDate("12/2018")
+        ->setSecurityCode("123")
         ->setCardNumber("0000000000000001")
         ->setHolder("Fulano de Tal");
 
@@ -167,6 +168,7 @@ $payment = $sale->payment(15700);
 $payment->setType(Payment::PAYMENTTYPE_CREDITCARD)
         ->creditCard("123", CreditCard::VISA)
         ->setExpirationDate("12/2018")
+        ->setSecurityCode("123")
         ->setCardNumber("0000000000000001")
         ->setHolder("Fulano de Tal")
         ->setSaveCard(true);
@@ -276,6 +278,7 @@ $payment = $sale->payment(15700);
 $payment->setType(Payment::PAYMENTTYPE_CREDITCARD)
         ->creditCard("123", CreditCard::VISA)
         ->setExpirationDate("12/2018")
+        ->setSecurityCode("123")
         ->setCardNumber("0000000000000001")
         ->setHolder("Fulano de Tal");
 
