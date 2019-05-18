@@ -1,6 +1,12 @@
-# API-3.0-PHP
+# Fork
 
-SDK API-3.0 PHP
+Este fork foi criado, pois o projeto original https://github.com/DeveloperCielo/API-3.0-PHP parece não ter mais interesse por parte dos mantenedores.
+
+Caso algum dia eles venham a reativar o projeto, ficarei feliz em incorporar as mudanças upstream.
+
+# CIELO-API-3.0-PHP
+
+SDK CIELO-API-3.0 PHP
 
 ## Principais recursos
 
