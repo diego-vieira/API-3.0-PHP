@@ -31,24 +31,8 @@ Por envolver a interface de usuário da aplicação, o SDK funciona apenas como 
 
 ## Instalando o SDK
 
-Se já possui um arquivo `composer.json`, basta adicionar a seguinte dependência ao seu projeto:
-
-```json
-"require": {
-    "developercielo/api-3.0-php": "^1.0"
-}
 ```
-
-Com a dependência adicionada ao `composer.json`, basta executar:
-
-```
-composer install
-```
-
-Alternativamente, você pode executar diretamente em seu terminal:
-
-```
-composer require "developercielo/api-3.0-php"
+composer require "diego-vieira/cielo-api-3.0-php"
 ```
 
 ## Produtos e Bandeiras suportadas e suas constantes
